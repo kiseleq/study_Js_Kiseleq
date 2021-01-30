@@ -1,4 +1,4 @@
-money = 500,
+const money = 500,
 income = 'Макдональдс',
 addExpenses = 'Лифт, Радио, Интернет',
 deposit = true,
